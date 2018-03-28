@@ -1329,6 +1329,7 @@ DISSECTOR_SRC = \
 	packet-tnef.c		\
 	packet-tns.c		\
 	packet-tpkt.c		\
+	packet-tpm20.c		\
 	packet-tpncp.c		\
 	packet-tr.c		\
 	packet-trill.c		\
